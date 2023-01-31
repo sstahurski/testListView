@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6378ED8D-9640-4C60-81F1-A8138ECE680B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EA2F71EB-82A8-4A6E-A334-2A99F4C6C0DA" />
+  <MonoDevelop.Ide.ItemProperties.testNoShell PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EA2F71EB-82A8-4A6E-A334-2A99F4C6C0DA" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testNoShell/MainPage.xaml.cs">
+    <Files>
+      <File FileName="testNoShell/MainPage.xaml.cs" Line="12" Column="1" />
+      <File FileName="testNoShell/MainPage.xaml" Line="9" Column="32" />
+      <File FileName="testNoShell/App.xaml" Line="1" Column="1" />
+      <File FileName="testNoShell/App.xaml.cs" Line="9" Column="1" />
+      <File FileName="testNoShell/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="testNoShell/MainPageViewModel.cs" Line="7" Column="22" />
+      <File FileName="../testListView/testListView/MainPage.xaml" Line="27" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testNoShell" expanded="True">
+            <Node name="testNoShell" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
